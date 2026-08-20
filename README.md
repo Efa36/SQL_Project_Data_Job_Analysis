@@ -80,7 +80,8 @@ Interestingly, the $650K Mantys position is a significant outlier compared with 
 
 Overall, the results show that the highest-paying opportunities aren't limited to traditional Data Analyst titles. More senior roles such as Director, Associate Director, and Principal Data Analyst also appear among the highest earners. 🚀
 
-![Top Paying Data Analyst Jobs](SQL_Project_Data_Job_Analysis\project_sql\assets\Top 10 Highest-Paying Data Analyst Jobs.png)
+<img width="768" height="432" alt="Top 10 Highest-Paying Data Analyst Jobs" src="https://github.com/user-attachments/assets/d96cb629-cb5e-442c-a9f8-cf170fc11135" />
+
 
 2️⃣ What skills are required for the top-paying jobs?
 
@@ -134,7 +135,8 @@ A few patterns stand out:
 
 Interestingly, the skills vary quite a bit between roles. For example, the Associate Director at AT&T requires a broad mix of SQL, Python, R, cloud technologies, data-processing tools, and visualization software, while the ERM Data Analyst has a much smaller skill set consisting of SQL, Python, and R.
 
-![Top 10 Skills Required by High-Paying Data Analyst Roles](SQL_Project_Data_Job_Analysis\project_sql\assets\Top 10 Skills Required by High-Paying Data Analyst Roles.png)
+<img width="768" height="432" alt="Top 10 Skills Required by High-Paying Data Analyst Roles" src="https://github.com/user-attachments/assets/c5bd2f11-a71f-4d1e-ad02-ac29a4980539" />
+
 
 3️⃣ What are the most in-demand skills?
 
